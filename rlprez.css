@@ -1,0 +1,18 @@
+/*!
+ * Atomi HTML5 Project Style Sheet
+ * Copyright (c) Atomi Systems, Inc. All rights reserved.
+ * https://atomisystems.com
+ * Version: 7.2.1
+ */
+#okTh1DXb .ap-focused {
+	outline: 1px dashed black;
+	outline-offset: 1px;
+}
+#okTh1DXb p {
+	margin: 0;
+}
+#okTh1DXb ol,ul {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
